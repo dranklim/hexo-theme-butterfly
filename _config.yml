@@ -52,10 +52,13 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: /img/favicon.png
+favicon: 
+  small: /img/bitbug_favicon16x16.ico
+  medium: /img/bitbug_favicon32x32.ico
+  large: /img/bitbug_favicon64x64.ico
 
 avatar:
-  img: /img/butterfly-icon.png
+  img: /img/UEFIWarm_logo.png
   effect: false
 
 # Disable all banner images
